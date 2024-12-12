@@ -29,6 +29,17 @@ function loadMovies() {
             image: "https://play-lh.googleusercontent.com/PePLCRvcz7QuvkcFp38ZA-nY2p2LrnDKd_SFAliXUNacAhmHEQinoP2SUKpVQZP9rpuJ"
         },
         { 
+            title: "Panchayat (2020) Season 1", 
+            year: 2020, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/3wdkptruwq7t3t7", size: "2.13 GB" },
+                medium: { url: "https://vcloud.lol/chqwrvhwcrm8-cq", size: "3.37 GB" },
+                large: { url: "https://vcloud.lol/dzgv22z0tezb0yt", size: "13.66 GB" }
+            },
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJ4hMKV3CqK3GusuXEhupqTTmusBjDwg8UQ&s"
+        },
+        { 
             title: "A Man Called Otto", 
             year: 2014, 
             language: "English/Hindi",
