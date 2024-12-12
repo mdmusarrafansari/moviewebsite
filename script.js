@@ -7,15 +7,48 @@ document.addEventListener("DOMContentLoaded", () => {
 function loadMovies() {
     const movies = [
         { 
+            title: "Sanju", 
+            year: 2018, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/l4js2922343py94", size: "429.87 MB" },
+                medium: { url: "https://vcloud.lol/gjaaiajpjhgph3j", size: "1.39 GB" },
+                large: { url: "https://vcloud.lol/lubha9ibjmjj9ul", size: "4.64 GB" }
+            },
+            image: "https://images.indianexpress.com/2018/05/ranbir-kapoor-sanju-1.jpg?w=350"
+        },
+        { 
+            title: "Jab Tak Hai Jaan", 
+            year: 2012, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/bh2mykkrclxgdpw", size: "524.45 MB" },
+                medium: { url: "https://vcloud.lol/xkpa8gugpcec38b", size: "1.3 GB" },
+                large: { url: "https://vcloud.lol/ftafeef3rfpe0lj", size: "2.33 GB" }
+            },
+            image: "https://play-lh.googleusercontent.com/PePLCRvcz7QuvkcFp38ZA-nY2p2LrnDKd_SFAliXUNacAhmHEQinoP2SUKpVQZP9rpuJ"
+        },
+        { 
             title: "A Man Called Otto", 
             year: 2014, 
             language: "English/Hindi",
             links: {
                 small: { url: "https://vcloud.lol/8y-m21qfqkksefk", size: "4GB" },
-                medium: { url: "https://example.com/interstellar-medium.mp4", size: "10GB" },
-                large: { url: "https://example.com/interstellar-large.mp4", size: "12GB" }
+                medium: { url: "https://example.com/interstellar-medium.mp4", size: "N/A" },
+                large: { url: "https://example.com/interstellar-large.mp4", size: "N/A" }
             },
             image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfOpchCzccZFjNQjWCJV-NBdrLkvMkOBMn1Ej2biVWtfQ1ourY6iwYMSm5gg5n2BLjxVKenQ"
+        },
+        { 
+            title: "Lootera", 
+            year: 2013, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/rq-lamlbmlplmy7", size: "396.04 MB" },
+                medium: { url: "https://vcloud.lol/tehiqbqb7uhhuci", size: "1.03 GB" },
+                large: { url: "https://vcloud.lol/ziumbgs073mi3ii", size: "7.17 GB" }
+            },
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIf9UN9edOGpfrk1mIv6D609jlPYp1re6Sw&s"
         },
         { 
             title: "Veer Zaara", 
@@ -23,7 +56,7 @@ function loadMovies() {
             language: "Hindi",
             links: {
                 small: { url: " https://vcloud.lol/z-z1pekykydk9v2", size: "526.38 MB" },
-                medium: { url: "https://example.com/interstellar-medium.mp4", size: "10GB" },
+                medium: { url: "https://example.com/interstellar-medium.mp4", size: "N/A" },
                 large: { url: "https://vcloud.lol/wyfioqqotjjf0ob", size: "5.77 GB" }
             },
             image: "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Veer-Zaara.jpg/220px-Veer-Zaara.jpg"
@@ -34,8 +67,8 @@ function loadMovies() {
             language: "English/Hindi",
             links: {
                 small: { url: "https://vcloud.lol/n7azxphte7pptk2", size: "2.95GB" },
-                medium: { url: "https://example.com/inception-medium.mp4", size: "10GB" },
-                large: { url: "https://example.com/inception-large.mp4", size: "12GB" }
+                medium: { url: "https://example.com/inception-medium.mp4", size: "N/A" },
+                large: { url: "https://example.com/inception-large.mp4", size: "N/A" }
             },
             image: "https://i.ytimg.com/vi/w8EDX5KqFLg/hqdefault.jpg?v=6717df84"
         },
