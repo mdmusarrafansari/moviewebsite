@@ -7,6 +7,28 @@ document.addEventListener("DOMContentLoaded", () => {
 function loadMovies() {
     const movies = [
         { 
+            title: "A Man Called Otto", 
+            year: 2014, 
+            language: "English/Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/8y-m21qfqkksefk", size: "4GB" },
+                medium: { url: "https://example.com/interstellar-medium.mp4", size: "10GB" },
+                large: { url: "https://example.com/interstellar-large.mp4", size: "12GB" }
+            },
+            image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfOpchCzccZFjNQjWCJV-NBdrLkvMkOBMn1Ej2biVWtfQ1ourY6iwYMSm5gg5n2BLjxVKenQ"
+        },
+        { 
+            title: "Veer Zaara", 
+            year: 2004, 
+            language: "Hindi",
+            links: {
+                small: { url: " https://vcloud.lol/z-z1pekykydk9v2", size: "526.38 MB" },
+                medium: { url: "https://example.com/interstellar-medium.mp4", size: "10GB" },
+                large: { url: "https://vcloud.lol/wyfioqqotjjf0ob", size: "5.77 GB" }
+            },
+            image: "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Veer-Zaara.jpg/220px-Veer-Zaara.jpg"
+        },
+        { 
             title: "Lucky Baskhar", 
             year: 2024, 
             language: "English/Hindi",
@@ -16,17 +38,6 @@ function loadMovies() {
                 large: { url: "https://example.com/inception-large.mp4", size: "12GB" }
             },
             image: "https://i.ytimg.com/vi/w8EDX5KqFLg/hqdefault.jpg?v=6717df84"
-        },
-        { 
-            title: "Interstellar", 
-            year: 2014, 
-            language: "English",
-            links: {
-                small: { url: "https://example.com/interstellar-small.mp4", size: "4GB" },
-                medium: { url: "https://example.com/interstellar-medium.mp4", size: "10GB" },
-                large: { url: "https://example.com/interstellar-large.mp4", size: "12GB" }
-            },
-            image: "https://via.placeholder.com/200x300?text=Interstellar"
         },
         { 
             title: "Avengers – Infinity War", 
