@@ -40,6 +40,17 @@ function loadMovies() {
             image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJ4hMKV3CqK3GusuXEhupqTTmusBjDwg8UQ&s"
         },
         { 
+            title: "Panchayat (2022) Season 2", 
+            year: 2022, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/ykwhmmxooww19nu", size: "2.47 GB" },
+                medium: { url: "https://vcloud.lol/fit1wwjyc1ott5e", size: "7.89 GB" },
+                large: { url: "https://vcloud.lol/3dzp8akggnqznpm", size: "19.48 GB" }
+            },
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7KF7yc2021rSmogr83qjLocT9SNkszJIlw&s"
+        },
+        { 
             title: "A Man Called Otto", 
             year: 2014, 
             language: "English/Hindi",
