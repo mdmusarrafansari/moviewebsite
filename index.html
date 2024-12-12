@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Movie Hub</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#movies">Movies</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero">
+            <div class="container">
+                <h2>Welcome to Movie Hub</h2>
+                <p>Your ultimate destination for movies, reviews, and trailers.</p>
+                <button onclick="exploreMovies()">Explore Movies</button>
+            </div>
+        </section>
+
+        <section id="movies" class="container">
+            <h2>Popular Movies</h2>
+            <div class="movie-grid" id="movie-grid">
+                <!-- Movies will be loaded here dynamically -->
+            </div>
+        </section>
+
+        <section id="about">
+            <div class="container">
+                <h2>About Us</h2>
+                <p>Movie Hub is your go-to website for movie enthusiasts. Discover the latest films, watch trailers, and read reviews all in one place.</p>
+            </div>
+        </section>
+
+        <section id="contact">
+            <div class="container">
+                <h2>Contact Us</h2>
+                <p>Email us at <a href="mailto:info@moviehub.com">info@moviehub.com</a></p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Movie Hub. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
