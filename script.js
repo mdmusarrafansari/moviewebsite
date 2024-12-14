@@ -18,6 +18,28 @@ function loadMovies() {
             image: "https://images.indianexpress.com/2018/05/ranbir-kapoor-sanju-1.jpg?w=350"
         },
         { 
+            title: "Vivah", 
+            year: 2006, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/l4js2922343py941", size: "NA" },
+                medium: { url: "https://vcloud.lol/phabv2cxb1mvppb", size: "1.44 GB" },
+                large: { url: "https://vcloud.lol/ocvml44gds1y0sm", size: "4.81 GB" }
+            },
+            image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR47oyQ310pC7YgJsqoyUxLemWtf9TtD0rtWdV0xUmncQPI5TJTGueWiBUSupu32e-5NpQ6YA"
+        },
+        { 
+            title: "October", 
+            year: 2018, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/qovtz91qqptp9vc", size: "773.93 MB" },
+                medium: { url: "https://vcloud.lol/w1i81-x50wweptf", size: "3.35 GB" },
+                large: { url: "https://vcloud.lol/gbrai3q50bi5wbq", size: "17.85 GB" }
+            },
+            image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgTGEG6zANFqCGP-vczfejJdc3XTeWRkSLclr7usr098u1vFd3HBZjtVm4oQSjKC4Zm-l9"
+        },
+        { 
             title: "Jab Tak Hai Jaan", 
             year: 2012, 
             language: "Hindi",
