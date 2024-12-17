@@ -29,6 +29,17 @@ function loadMovies() {
             image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR47oyQ310pC7YgJsqoyUxLemWtf9TtD0rtWdV0xUmncQPI5TJTGueWiBUSupu32e-5NpQ6YA"
         },
         { 
+            title: "Lakshya", 
+            year: 2004, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/l4js2922343py941", size: "NA" },
+                medium: { url: "https://vcloud.lol/auaiihhsaaaqaub", size: "1.54 GB" },
+                large: { url: "https://vcloud.lol/6ifckocfjs3vj1j", size: "5.35 GB" }
+            },
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkq9z7jLBE_-EQiHvAWhKq8EQuas7MUdgrjcdmB5liih1EdlBsgVpl0s99lJ4lcoaVrLn"
+        },
+        { 
             title: "October", 
             year: 2018, 
             language: "Hindi",
