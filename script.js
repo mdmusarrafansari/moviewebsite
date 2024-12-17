@@ -18,6 +18,17 @@ function loadMovies() {
             image: "https://images.indianexpress.com/2018/05/ranbir-kapoor-sanju-1.jpg?w=350"
         },
         { 
+            title: "The Bihar Chapter (2022) Season 1 ", 
+            year: 2022, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/6d55qehaxfeo5qn", size: "1.86 GB" },
+                medium: { url: "https://vcloud.lol/ap8w6rlfy6qea81", size: "3.25 GB" },
+                large: { url: "https://vcloud.lol/rapmqsggk1adbna", size: "14.33 GB" }
+            },
+            image: "https://m.media-amazon.com/images/M/MV5BMDhhODgxZTktM2U4Ni00M2Q0LWEzNjctMDEyMTA0ODBmZjc0XkEyXkFqcGc@._V1_.jpg"
+        },
+        { 
             title: "Vivah", 
             year: 2006, 
             language: "Hindi",
@@ -27,6 +38,17 @@ function loadMovies() {
                 large: { url: "https://vcloud.lol/ocvml44gds1y0sm", size: "4.81 GB" }
             },
             image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR47oyQ310pC7YgJsqoyUxLemWtf9TtD0rtWdV0xUmncQPI5TJTGueWiBUSupu32e-5NpQ6YA"
+        },
+        { 
+            title: "Blackmail", 
+            year: 2018, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/ec7dznuoezzdt1f", size: "1 GB" },
+                medium: { url: "https://vcloud.lol/nzin1npnj-l8enw", size: "2.21 GB" },
+                large: { url: "https://vcloud.lol/utttgenssu06kum", size: "15.46 GB" }
+            },
+            image: "https://m.media-amazon.com/images/M/MV5BZGIwODIyY2ItNWYyOC00YWE3LWI3ZjgtNTNhY2MxNzA2Mjk2XkEyXkFqcGc@._V1_.jpg"
         },
         { 
             title: "Lakshya", 
