@@ -29,6 +29,39 @@ function loadMovies() {
             image: "https://m.media-amazon.com/images/M/MV5BMDhhODgxZTktM2U4Ni00M2Q0LWEzNjctMDEyMTA0ODBmZjc0XkEyXkFqcGc@._V1_.jpg"
         },
         { 
+            title: "Sab Moh Maaya Hai", 
+            year: 2023, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://example.com/interstellar-large.mp4", size: "NA" },
+                medium: { url: "https://90fpsconfig.in/bgmi/", size: "1.45 GB" },
+                large: { url: "https://example.com/interstellar-large.mp4", size: "NA" }
+            },
+            image: "https://m.media-amazon.com/images/M/MV5BZDFmOTA1ZjctNjg3My00MjQxLWFhYjEtMGUxZDVhMDNiMmQwXkEyXkFqcGc@._V1_.jpg"
+        },
+        { 
+            title: "Kooki", 
+            year: 2024, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://example.com/interstellar-large.mp4", size: "NA" },
+                medium: { url: "https://vcloud.lol/f1gzrjec5weiqvi", size: "2.18 GB" },
+                large: { url: "https://example.com/interstellar-large.mp4", size: "NA" }
+            },
+            image: "https://m.media-amazon.com/images/M/MV5BZjAzODEwZDQtYTdlNy00NWI2LWJhYWQtMDAwNzE3MDk1ZGU0XkEyXkFqcGc@._V1_QL75_UX190_CR0,31,190,281_.jpg"
+        },
+        { 
+            title: "Kyon ki", 
+            year: 2005, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://example.com/interstellar-large.mp4", size: "NA" },
+                medium: { url: "https://vcloud.lol/bp32_ww2kvipp_k", size: "1.3 GB" },
+                large: { url: "https://vcloud.lol/oxb-btxaxno04bx", size: "4.33 GB" }
+            },
+            image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe3VRbKQeqY7oYK0J5aOcnq4D2JjUrk1zPctiPAUKxmnJ8MW-m_GpRFnqSsHzUKI5pTJRlrg"
+        },
+        { 
             title: "Vivah", 
             year: 2006, 
             language: "Hindi",
@@ -38,6 +71,17 @@ function loadMovies() {
                 large: { url: "https://vcloud.lol/ocvml44gds1y0sm", size: "4.81 GB" }
             },
             image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR47oyQ310pC7YgJsqoyUxLemWtf9TtD0rtWdV0xUmncQPI5TJTGueWiBUSupu32e-5NpQ6YA"
+        },
+        { 
+            title: "Yeh Kaali Kaali Ankhein", 
+            year: 2024, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/l4js2922343py941", size: "NA" },
+                medium: { url: "https://vcloud.lol/wfw10sx01a1xzwj", size: "2.26 GB" },
+                large: { url: "https://vcloud.lol/ud3yql1b0jyfc55", size: "9.84 GB" }
+            },
+            image: "https://upload.wikimedia.org/wikipedia/en/4/4f/Yeh_Kaali_Kaali_Ankhein_poster.jpg"
         },
         { 
             title: "Blackmail", 
