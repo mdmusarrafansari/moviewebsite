@@ -73,6 +73,17 @@ function loadMovies() {
             image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR47oyQ310pC7YgJsqoyUxLemWtf9TtD0rtWdV0xUmncQPI5TJTGueWiBUSupu32e-5NpQ6YA"
         },
         { 
+            title: "Maamla Legal Hai", 
+            year: 2024, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/l4js2922343py941", size: "NA" },
+                medium: { url: "https://vcloud.lol/3q3knbly2mmfm2m", size: "2.51 GB" },
+                large: { url: "https://vcloud.lol/kmv3ylvdhymim-i", size: "5.02 GB" }
+            },
+            image: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLyCDfrd43QrquyI_p2kU1CZ3cQsdvRasaVlFUyb5eOCJavXf0LmZb8EJ3jLmC8B3vEyzR"
+        },
+        { 
             title: "Yeh Kaali Kaali Ankhein", 
             year: 2024, 
             language: "Hindi",
