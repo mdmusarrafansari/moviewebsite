@@ -18,6 +18,28 @@ function loadMovies() {
             image: "https://images.indianexpress.com/2018/05/ranbir-kapoor-sanju-1.jpg?w=350"
         },
         { 
+            title: "Marco", 
+            year: 2024, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/l4js2922343py94", size: "NA" },
+                medium: { url: "https://vcloud.lol/gjaaiajpjhgph3j", size: "NA" },
+                large: { url: "https://vcloud.lol/h2dduzlmcc0elfr", size: "2.25 GB" }
+            },
+            image: "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/marco-et00416394-1734329568.jpg"
+        },
+        { 
+            title: "UI", 
+            year: 2024, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/l4js2922343py94", size: "NA" },
+                medium: { url: "https://vcloud.lol/gjaaiajpjhgph3j", size: "NA" },
+                large: { url: "https://vcloud.lol/lcc6ul1lilrll1v", size: "2.47 GB" }
+            },
+            image: "https://timesofindia.indiatimes.com/photo/msid-106628279,imgsize-93512.cms"
+        },
+        { 
             title: "The Bihar Chapter (2022) Season 1 ", 
             year: 2022, 
             language: "Hindi",
