@@ -18,6 +18,17 @@ function loadMovies() {
             image: "https://images.indianexpress.com/2018/05/ranbir-kapoor-sanju-1.jpg?w=350"
         },
         { 
+            title: "Baby John", 
+            year: 2024, 
+            language: "Hindi",
+            links: {
+                small: { url: "https://vcloud.lol/l4js2922343py94", size: "NA" },
+                medium: { url: "https://vcloud.lol/gjaaiajpjhgph3j", size: "NA" },
+                large: { url: "https://vcloud.lol/su3uc9_9ldwsz7d", size: "2.55 GB" }
+            },
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr26lfwU6u-FThjrtpNhHqvY1LQwX5MtezF1veUjXM_OKZWqbE9qtMLLEcvtB3UBq0JoFa"
+        },
+        { 
             title: "Marco", 
             year: 2024, 
             language: "Hindi",
